@@ -1,6 +1,13 @@
-# one-paper-a-week
-Trying to read one paper a week.
+# one-paper-a-day
+Trying to read one paper a day.
 
+
+## July
+## Week of 14th
+- https://hamel.dev/blog/posts/evals-faq/
+- https://arxiv.org/abs/2507.07957
+
+### Archive
 - [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
 - [Automatic Summarization of Conversational Multi-Party Speech](https://www.aaai.org/Papers/AAAI/2006/AAAI06-335.pdf)
