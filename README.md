@@ -2,7 +2,7 @@
 Trying to read one paper a day.
 
 
-## July
+## July, 2025
 ## Week of 14th
 - https://hamel.dev/blog/posts/evals-faq/
 - https://arxiv.org/abs/2507.07957
